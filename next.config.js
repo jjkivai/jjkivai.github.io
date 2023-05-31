@@ -1,7 +1,4 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-  basePath: "/jjkivai.github.io",
-  assetPrefix: "jjkivai.github.io",
-};
+const nextConfig = {};
 
 module.exports = nextConfig;
